@@ -296,9 +296,7 @@
     <Compile Include="Diagnostics\TreeView\TreeWriter_Smoke_Tester.cs" />
     <Compile Include="Diagnostics\VisualizationRegistry.cs" />
     <Compile Include="Diagnostics\WriterExtensions.cs" />
-    <Compile Include="Examples.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Examples.cs" />
     <Compile Include="Examples\BuildUp.cs" />
     <Compile Include="Examples\FamilyPolicies\custom_policy_for_configuration.cs" />
     <Compile Include="Examples\MultiTenancy\missing_instance_rule_overrides.cs" />

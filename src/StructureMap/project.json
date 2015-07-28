@@ -1,0 +1,23 @@
+﻿{
+    "version": "1.0.0-*",
+    "description": "ClassLibrary1 Class Library",
+    "authors": [ "Joshua.Lewis" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+    },
+
+    "frameworks": {
+        "net45": { },
+        "dnx46": { },
+        "dnxcore50": {
+            "dependencies": {
+                "System.Collections": "4.0.10-beta-*",
+                "System.Linq": "4.0.0-beta-*",
+                "System.Linq.Expressions": "4.0.10-beta-*"
+            }
+        }
+    }
+}
